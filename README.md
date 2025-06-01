@@ -1,8 +1,10 @@
 # Market-Database
 
-## [Check out my portfolio]()
+## [Check out my portfolio](https://github.com/Ruiz0430/My-Portfolio.git)
 
 ## Table of Contents
+- [Description](#Description)
+- [Roadmap](#Roadmap)
 
 ## Description
 The market database is a MYSQL database  that models a market's/store's system focused on its customers, their orders and the order's details. There can be an N amount of customers and they can place N amount of orders. Each order has only one set of order details describing what was in the order.
